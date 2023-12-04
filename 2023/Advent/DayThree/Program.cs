@@ -38,15 +38,7 @@ for(var  y= 0; y < engine.Length; y++)
                     gt.GearFound(gearyx.Item1, gearyx.Item2, value);
                 }
             }
-
-            
         }
-
-
-
-
-        
-
     }
 }
 
